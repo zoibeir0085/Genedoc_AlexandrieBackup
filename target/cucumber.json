@@ -1,0 +1,124 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-07-20T16:02:57.149Z",
+        "line": 18,
+        "name": "Scenario Alexandrie1",
+        "description": "",
+        "id": "alexandriescenariofeature;scenario-alexandrie1;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7235485400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I navigate to the login page",
+            "match": {
+              "location": "Alexandrie.iNavigateToTheLoginPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4141427900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter \"rgauvin@kpmg.fr\" and \"aezan75\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "rgauvin@kpmg.fr",
+                  "offset": 9
+                },
+                {
+                  "val": "aezan75",
+                  "offset": 31
+                }
+              ],
+              "location": "Alexandrie.iEnterUsernameAndPassword(String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2982469500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click login button",
+            "match": {
+              "location": "Alexandrie.iClickLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10387405600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I navigate to the engagement page",
+            "match": {
+              "location": "Alexandrie.iNavigateToTheEngagementPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 25159760000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter the engagement code : \"1766186\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1766186\"",
+                  "offset": 30
+                }
+              ],
+              "location": "Alexandrie.iEnterTheEngagementCode(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 44032112700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I select the engagement",
+            "match": {
+              "location": "Alexandrie.iSelectTheEngagement()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 767156500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I close the browser",
+            "match": {
+              "location": "Alexandrie.iCloseTheBrowser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "AlexandrieScenarioFeature",
+    "description": "  This feature deals with the login functionality of the application",
+    "id": "alexandriescenariofeature",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Features/ScenarioAlexandrie.feature",
+    "tags": []
+  }
+]
