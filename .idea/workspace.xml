@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d7be815-27e0-4a25-8704-a5f983c94656" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ezcVLdbnFFpmNq0pxnsXuXjdlh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CreationDossierGenedoc" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AezanGenedoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d7be815-27e0-4a25-8704-a5f983c94656" name="Default Changelist" comment="" />
+      <created>1595327884603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595327884603</updated>
+      <workItem from="1595327889927" duration="758000" />
+      <workItem from="1595329080738" duration="47000" />
+      <workItem from="1595494743288" duration="295000" />
+      <workItem from="1595845178765" duration="71000" />
+      <workItem from="1596613385340" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596613460840">
+      <screen x="66" y="27" width="1300" height="741" />
+    </state>
+    <state x="499" y="155" width="424" height="491" key="FileChooserDialogImpl/66.27.1300.741@66.27.1300.741" timestamp="1596613460839" />
+    <state width="1254" height="172" key="GridCell.Tab.0.bottom" timestamp="1595328649187">
+      <screen x="66" y="27" width="1300" height="741" />
+    </state>
+    <state width="1254" height="172" key="GridCell.Tab.0.bottom/66.27.1300.741@66.27.1300.741" timestamp="1595328649187" />
+    <state width="1254" height="172" key="GridCell.Tab.0.center" timestamp="1595328649187">
+      <screen x="66" y="27" width="1300" height="741" />
+    </state>
+    <state width="1254" height="172" key="GridCell.Tab.0.center/66.27.1300.741@66.27.1300.741" timestamp="1595328649187" />
+    <state width="1254" height="172" key="GridCell.Tab.0.left" timestamp="1595328649186">
+      <screen x="66" y="27" width="1300" height="741" />
+    </state>
+    <state width="1254" height="172" key="GridCell.Tab.0.left/66.27.1300.741@66.27.1300.741" timestamp="1595328649186" />
+    <state width="1254" height="172" key="GridCell.Tab.0.right" timestamp="1595328649187">
+      <screen x="66" y="27" width="1300" height="741" />
+    </state>
+    <state width="1254" height="172" key="GridCell.Tab.0.right/66.27.1300.741@66.27.1300.741" timestamp="1595328649187" />
+  </component>
+</project>
